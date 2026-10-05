@@ -1,0 +1,6 @@
+{
+  "name": "FACES CANADA — Luxury Cosmetics & Virtual Try-On Studio",
+  "description": "Official storefront, shade-calibrated product catalog, and real-time virtual makeup try-on studio for FACES CANADA cosmetics and skincare.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
